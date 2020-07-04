@@ -7,4 +7,4 @@ So basically if you want to change the destination address, I have a marked spot
 
 # BIG NOTE!!!
 If it's not working then close it or it will over-fill your RAM!
-Tbh i don't know how to fix it :/
+Tbh I don't know how to fix it :/
