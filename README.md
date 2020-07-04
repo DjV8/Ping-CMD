@@ -1,7 +1,7 @@
 # Ping-CMD
 It's a small window that shows your ping / package losses
 
-BIG NOTE!!!
+# BIG NOTE!!!
 If it's not working then close it or it will over-fill your RAM!
 Tbh i don't know how to fix it :/
 
