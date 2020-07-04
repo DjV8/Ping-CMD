@@ -1,8 +1,10 @@
 @echo off
 setlocal EnableDelayedExpansion
 
+rem =============================
 rem Destination adress (ip / url)
 set "IP=8.8.8.8"
+rem =============================
 
 rem warning ping
 set wP=85
@@ -16,8 +18,10 @@ set pingNum=0
 
 set ps=0
 
+rem =============================
 rem console size
 mode con: cols=15 lines=4
+rem =============================
 
 
 :Loop
